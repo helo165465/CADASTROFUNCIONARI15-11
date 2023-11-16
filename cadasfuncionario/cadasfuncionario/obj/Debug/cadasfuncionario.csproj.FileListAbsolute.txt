@@ -1,0 +1,10 @@
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\bin\Debug\cadasfuncionario.exe.config
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\bin\Debug\cadasfuncionario.exe
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\bin\Debug\cadasfuncionario.pdb
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.csproj.AssemblyReference.cache
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.Form1.resources
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.Properties.Resources.resources
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.csproj.GenerateResource.cache
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.csproj.CoreCompileInputs.cache
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.exe
+C:\Users\heloi\source\repos\cadasfuncionario\cadasfuncionario\obj\Debug\cadasfuncionario.pdb
